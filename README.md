@@ -1,1 +1,1 @@
-Simple command design patten demo
+Simple command design patten demo program
